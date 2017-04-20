@@ -32,4 +32,4 @@ Google Sign-In: Utilizza OAuth2. E' stato utilizzato per dare la possibilità al
 E' stato utilizzato RabbitMq per notificare agli amministratori dell'applicazione, tramite un [log](https://github.com/zeusm9/Smartphone-Finder/tree/master/log), le ricerche effettuate dagli utenti.
 
 
-Il servizio può essere testato al seguente link: https://smartphone-finder-zeusm.c9users.io/
+Il servizio è stato testato al seguente link: https://smartphone-finder-zeusm.c9users.io/
